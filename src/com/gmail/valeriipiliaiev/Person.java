@@ -5,7 +5,6 @@ class Person {
     private String lastName;
     private String city;
     private String phoneNumber;
-
     public Person(String firstName, String lastName, String city, String phoneNumber) {
         this.firstName = firstName;
         this.lastName = lastName;
